@@ -1,0 +1,15 @@
+.homeP h1 {
+  display: flex;
+  justify-content: center;
+  color: white;
+  margin: 2%;
+}
+.homeP div {
+  display: flex;
+  justify-content: space-around;
+}
+.homeP h3 {
+  text-align: center;
+  color: beige;
+  margin: auto;
+}

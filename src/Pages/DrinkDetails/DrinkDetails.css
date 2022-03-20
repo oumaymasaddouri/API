@@ -1,0 +1,23 @@
+.det h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2%;
+  color: white;
+}
+.det img {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  width: 400px;
+}
+.det div {
+  display: flex;
+  justify-content: space-around;
+  margin: 5%;
+}
+.det Button {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
